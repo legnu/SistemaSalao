@@ -1,0 +1,723 @@
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.exe.config
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.exe
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.pdb
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.xml
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbprojAssemblyReference.cache
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.Resources.resources
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.GenerateResource.cache
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.CoreCompileInputs.cache
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.exe
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.xml
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.pdb
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.frmLogin.resources
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.frmTelaPrincipal.resources
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadClientes.resources
+C:\Users\hugov\source\repos\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadProdutos.resources
+C:\Projeto Curso - Back End\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.exe
+C:\Projeto Curso - Back End\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.exe.config
+C:\Projeto Curso - Back End\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.pdb
+C:\Projeto Curso - Back End\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.xml
+C:\Projeto Curso - Back End\SistemaSalao\SistemaSalao\bin\Debug\MySql.Data.dll
+C:\Projeto Curso - Back End\SistemaSalao\SistemaSalao\bin\Debug\Google.Protobuf.dll
+C:\Projeto Curso - Back End\SistemaSalao\SistemaSalao\bin\Debug\MySql.Data.xml
+C:\Projeto Curso - Back End\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbprojAssemblyReference.cache
+C:\Projeto Curso - Back End\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadClientes.resources
+C:\Projeto Curso - Back End\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadEspecialidades.resources
+C:\Projeto Curso - Back End\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadFuncionarios.resources
+C:\Projeto Curso - Back End\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadProdutos.resources
+C:\Projeto Curso - Back End\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmTelaPrincipal.resources
+C:\Projeto Curso - Back End\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmLogin.resources
+C:\Projeto Curso - Back End\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.Resources.resources
+C:\Projeto Curso - Back End\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.GenerateResource.cache
+C:\Projeto Curso - Back End\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.CoreCompileInputs.cache
+C:\Projeto Curso - Back End\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.CopyComplete
+C:\Projeto Curso - Back End\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.exe
+C:\Projeto Curso - Back End\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.xml
+C:\Projeto Curso - Back End\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.pdb
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.exe.config
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.exe
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.pdb
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.xml
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\MySql.Data.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadClientes.resources
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadEspecialidades.resources
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadFornecedores.resources
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadFuncionarios.resources
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadProdutos.resources
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadServicos.resources
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmTelaPrincipal.resources
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmLogin.resources
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.Resources.resources
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.GenerateResource.cache
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.CoreCompileInputs.cache
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.CopyComplete
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.exe
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.xml
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.pdb
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbprojAssemblyReference.cache
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\EnvDTE.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\stdole.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\EnvDTE80.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\VSLangProj.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\VSLangProj80.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Newtonsoft.Json.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.MSXML.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.Build.Framework.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\VSLangProj2.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.exe.config
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.exe.config
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.exe
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.pdb
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.xml
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\MySql.Data.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\EnvDTE.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\stdole.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\EnvDTE80.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\VSLangProj.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\VSLangProj80.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Newtonsoft.Json.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.MSXML.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.Build.Framework.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\VSLangProj2.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbprojAssemblyReference.cache
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.exe.config
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadClientes.resources
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadEspecialidades.resources
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadFornecedores.resources
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadFuncionarios.resources
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadProdutos.resources
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadServicos.resources
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmTelaPrincipal.resources
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmLogin.resources
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.Resources.resources
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.RelProdutosFrm.resources
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.GenerateResource.cache
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.CoreCompileInputs.cache
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.CopyComplete
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.exe
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.xml
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.pdb
+C:\back\Projeto Curso Visual Studio Avançado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.RelClientesFrm.resources
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.exe.config
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.exe
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.pdb
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.xml
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\MySql.Data.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\EnvDTE.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\stdole.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\EnvDTE80.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\VSLangProj.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\VSLangProj80.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Newtonsoft.Json.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.MSXML.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.Build.Framework.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\VSLangProj2.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbprojAssemblyReference.cache
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.exe.config
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadClientes.resources
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadEspecialidades.resources
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadFornecedores.resources
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadFuncionarios.resources
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadProdutos.resources
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadServicos.resources
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmTelaPrincipal.resources
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmLogin.resources
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.Resources.resources
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.RelClientesFrm.resources
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.RelProdutosFrm.resources
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.GenerateResource.cache
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.CoreCompileInputs.cache
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.CopyComplete
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.exe
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.xml
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.pdb
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmVendas.resources
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmEntradasSaidas.resources
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmGastos.resources
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmPagamentos.resources
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.RelGastosFrm.resources
+C:\01 - SISTEMA SALAO - FINANÇAS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.RelVendaFrm.resources
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.exe.config
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.exe
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.pdb
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.xml
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\MySql.Data.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\EnvDTE.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\stdole.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\EnvDTE80.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\VSLangProj.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\VSLangProj80.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Newtonsoft.Json.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.MSXML.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.Build.Framework.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\VSLangProj2.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\pt-BR\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbprojAssemblyReference.cache
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.exe.config
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadClientes.resources
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadEspecialidades.resources
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadFornecedores.resources
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadFuncionarios.resources
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadProdutos.resources
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadServicos.resources
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmEntradasSaidas.resources
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmGastos.resources
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmPagamentos.resources
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmTelaPrincipal.resources
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmVendas.resources
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmLogin.resources
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.Resources.resources
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.RelClientesFrm.resources
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.RelGastosFrm.resources
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.RelProdutosFrm.resources
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.RelVendaFrm.resources
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.GenerateResource.cache
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.CoreCompileInputs.cache
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.CopyComplete
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.exe
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.xml
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.pdb
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmAgendamento.resources
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadHorarios.resources
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmConsultarAgendamento.resources
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmQuadroHorarios.resources
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmConsultarAgClientes.resources
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.RelAgendamentoFrm.resources
+C:\00000 - SISTEMA DE AGENDAMENTOS\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.RelAgendamentoStatusFrm.resources
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.exe.config
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.exe.manifest
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.application
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.exe
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.pdb
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.xml
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\EnvDTE.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\stdole.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.MSXML.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadClientes.resources
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadEspecialidades.resources
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadFornecedores.resources
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadFuncionarios.resources
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadHorarios.resources
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadProdutos.resources
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadServicos.resources
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmAgendamento.resources
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmConsultarAgClientes.resources
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmConsultarAgendamento.resources
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmEntradasSaidas.resources
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmGastos.resources
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmPagamentos.resources
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmQuadroHorarios.resources
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmTelaPrincipal.resources
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmVendas.resources
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmLogin.resources
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.Resources.resources
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.RelAgendamentoFrm.resources
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.RelAgendamentoStatusFrm.resources
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.RelClientesFrm.resources
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.RelGastosFrm.resources
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.RelProdutosFrm.resources
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.RelVendaFrm.resources
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.GenerateResource.cache
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\RdlCompile.cache
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\RdlCompile.compiled
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.CoreCompileInputs.cache
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.exe.manifest
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.application
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.CopyComplete
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.exe
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.xml
+C:\Users\LeGnu's\Downloads\Arquivos\Arquivos\Sistema Finalizado\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.pdb
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.exe.config
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.exe.manifest
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.application
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.exe
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.pdb
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\SistemaSalao.xml
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\EnvDTE.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\stdole.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\Microsoft.MSXML.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.AssemblyReference.cache
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadClientes.resources
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadEspecialidades.resources
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadFornecedores.resources
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadFuncionarios.resources
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadHorarios.resources
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadProdutos.resources
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmCadServicos.resources
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmAgendamento.resources
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmConsultarAgClientes.resources
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmConsultarAgendamento.resources
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmEntradasSaidas.resources
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmGastos.resources
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmPagamentos.resources
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmQuadroHorarios.resources
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmTelaPrincipal.resources
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmVendas.resources
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmLogin.resources
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.Resources.resources
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.RelAgendamentoFrm.resources
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.RelAgendamentoStatusFrm.resources
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.RelClientesFrm.resources
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.RelGastosFrm.resources
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.RelProdutosFrm.resources
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.RelVendaFrm.resources
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.GenerateResource.cache
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.CoreCompileInputs.cache
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.exe.manifest
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.application
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.CopyComplete
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.exe
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.xml
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.pdb
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmSobre.resources
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\EnvDTE.xml
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.SuggestedBindingRedirects.cache
