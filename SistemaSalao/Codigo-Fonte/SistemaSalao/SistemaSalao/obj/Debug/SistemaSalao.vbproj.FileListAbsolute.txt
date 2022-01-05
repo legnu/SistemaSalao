@@ -719,5 +719,5 @@ C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\o
 C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.xml
 C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.pdb
 C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.FrmSobre.resources
-C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\bin\Debug\EnvDTE.xml
-C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\SistemaSalao.vbproj.SuggestedBindingRedirects.cache
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\RdlCompile.cache
+C:\Users\LeGnu's\Documents\SistemaSalao\Codigo-Fonte\SistemaSalao\SistemaSalao\obj\Debug\RdlCompile.compiled
